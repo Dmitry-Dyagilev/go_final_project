@@ -1,6 +1,6 @@
 module github.com/Dmitry-Dyagilev/final-project
 
-go 1.25.0
+go 1.24
 
 require (
 	github.com/jmoiron/sqlx v1.4.0
