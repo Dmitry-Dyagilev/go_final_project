@@ -11,7 +11,7 @@ jobs:
         go-version: [1.26]
   
     steps:
-    - uses: actions/checkout@v47
+    - uses: actions/checkout@v7
 
     - name: Setup Go
       uses: actions/setup-go@v7
